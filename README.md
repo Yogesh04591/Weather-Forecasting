@@ -35,6 +35,10 @@ Weather forecasting is the prediction of the state of the atmosphere for a given
 
 ---
 
+## Architecture Diagram
+
+---
+
 ## 🔄 Application Workflow
 
 1. User enters a city name or allows geolocation.
