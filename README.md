@@ -27,15 +27,19 @@ Weather forecasting is the prediction of the state of the atmosphere for a given
 
 ---
 
+## Architecture Diagram
+
+<p align="center">
+  <img src="Screenshot 2025-05-21 111720.png" alt="Sample Output" width="300"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Frameworks**: Bootstrap (for UI styling), Django *(not fully implemented in current version but mentioned for scalability)*
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
-
----
-
-## Architecture Diagram
 
 ---
 
@@ -47,15 +51,31 @@ Weather forecasting is the prediction of the state of the atmosphere for a given
 4. Weather metrics and forecast details are shown.
 5. Optional graphical representation for enhanced clarity.
 
+<p align="center">
+  <img src="Screenshot 2025-05-21 111747.png" alt="Sample Output" width="300"/>
+</p>
+
 ---
 
-## 📷 Screenshots
+## 📷 Output Screenshots
 
 **Homepage:**
 > Shows input options (city/location) and empty dashboard.
+> <p align="center">
+  <img src="WF Homepage.png" alt="Sample Output" width="600"/>
+</p>
 
 **Search Results:**
 > Displays temperature, humidity, wind, pressure, description, and weather icons for each of the next 5 days.
+> <p align="center">
+  <img src="mannual search.png" alt="Sample Output" width="600"/>
+</p>
+
+**Location Access**
+> gets weather details for current location.
+> <p align="center">
+  <img src="WF Location Access.png" alt="Sample Output" width="600"/>
+</p>
 
 ---
 
